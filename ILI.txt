@@ -1,3 +1,3 @@
-((fever and (cough or sore throat)) or influenza) andnot NonILIFevers
-
 (,^fever^,andnot,^denies fev^,andnot,^shot^,andnot,^afeb^,andnot,^no fev^,andnot,^no temp^,or,^chill^,or,^pyrexia^,or,^ febrile^,or,^high temp^,or,^elevated temp^,andnot,^denies any elevated temp^,andnot,^no elevated temp^,or,^feeling hot^,or,^feels hot^,or,^fvr^,andnot,^denies fvr^,andnot,^no fvr^,),and,(,^cough^,andnot,^denies cough^,or,^sore ^th[o|r][a|o][a|r]t^,or,^soreth[o|r][a|o][a|r]t^,or,^strep^,or,^pharyn^,or,^upper resp^,),or,(,^[;/ ]J09^,or,^[;/ ]J10^,or,^[;/ ]J11^,or,^[;/ ]487.[018];^,or,^[;/ ]487[018];^,or,^[;/ ]487.[018],or,^[;/ ]487[018],or,^[;/ ]488.[018][19];^,or,^[;/ ]488[018][19];^,or,^[;/ ]488.[018][19],or,^[;/ ]488[018][19],or,^442696006^,or,^442438000^,or,^6142004^,or,^195878008^,or,^influenza^,andnot,^vaccin^,andnot,^shot^,andnot,^immunizat^,or,^ flu ^,andnot,^shot^,andnot,^stomach^,andnot,^vaccin^,andnot,^immuniza^,or,^flu like^,or,^flulike^,or,^flu symptom^,),andnot,^[;/ ]A08.4^,andnot,^[;/ ]A084^
+
+((fever and (cough or sore throat)) or influenza) andnot NonILIFevers
